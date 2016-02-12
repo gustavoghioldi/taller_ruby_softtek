@@ -1,4 +1,6 @@
-# Taller ruby Softtek
+# Taller ruby Softtek (v0.1)
+
+rvm use 2.2.4
 
 que es ruby?
 ===========
