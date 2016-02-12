@@ -63,3 +63,21 @@ numeros.each do |key, value|
 	puts key
 end
 ```
+#Que son las Gemas
+Las gemas de Ruby son paquetes de librerías para Ruby que se instalan en el sistema y quedan listas para ser usadas, con un simple require o con mecanismos que aporta el propio sistema de gemas para Ruby
+
+gem install "railties" #para uso de sacffold
+gem install "devise" #para sign en una aplicacion
+
+#RAILS
+
+rails new myapp <-- crea una nueva aplicacion rails
+
+rails g controller welcome index <-- genera un controlador "Welcome" con un metodo "index"
+
+rails g scaffold Post nombre:string telefono:integer texto:text <-- genera el recurso Post completo.
+
+
+
+rake routes <-- para ver todas las rutas del proyecto
+rake db:migrate <-- para hacer mitraciones de bases de datos
