@@ -1,16 +1,20 @@
 # Taller ruby Softtek (v0.1)
 
-rvm use 2.2.4
+####Instructor: Gustavo Ghioldi
 
-que es ruby?
-===========
+####Versión Ruby: 2.2.4 (con rvm)
 
-Un lenguaje de programación dinámico y de código abierto enfocado en la simplicidad y productividad. 
-Su elegante sintaxis se siente natural al leerla y fácil al escribirla.(sic doc oficial)
+##Que es Ruby?
 
-![Yukihiro "Matz" Matsumoto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Yukihiro_Matsumoto.JPG/220px-Yukihiro_Matsumoto.JPG "Yukihiro")
-El creador del lenguaje, Yukihiro "Matz" Matsumoto, ha dicho que Ruby está diseñado para la productividad y la diversión del desarrollador, 
-siguiendo los principios de una buena interfaz de usuario. Sostiene que el diseño de sistemas necesita enfatizar las necesidades humanas más que las de la máquina
+
+>Un lenguaje de programación dinámico y de código abierto enfocado en la simplicidad y productividad. 
+Su elegante sintaxis se siente natural al leerla y fácil al escribirla.__(sic doc oficial)__
+
+![Yukihiro "Matz" Matsumoto](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Yukihiro_Matsumoto.JPG/220px-Yukihiro_Matsumoto.JPG "Yukihiro") ___Yukihiro "Matz" Matsumoto___
+
+El creador del lenguaje, Yukihiro "Matz" Matsumoto, ha dicho: 
+>_Ruby está diseñado para la productividad y la diversión del desarrollador, 
+siguiendo los principios de una buena interfaz de usuario. Sostiene que el diseño de sistemas necesita enfatizar las necesidades humanas más que las de la máquina_
 
 #IRB 
 
