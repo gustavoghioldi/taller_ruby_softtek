@@ -84,7 +84,7 @@ end
 saludar "Gustavo","Ghioldi"
 ```
 ##Clases
-```
+```Ruby
 class Anfitrion
 	# attr_accessor, attr_reader, attr_writer
 	def initialize(nombre="Mundo")
@@ -108,7 +108,6 @@ class Anfitrion
 	def nombre=(nombre)
 		@nombre= nombre
 	end
-
 end
 
 anfi_sin_nombre = Anfitrion.new
