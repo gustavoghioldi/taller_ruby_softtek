@@ -168,3 +168,6 @@ para ver todas las rutas del proyecto
 para hacer mitraciones de bases de datos
     
     rake db:migrate
+
+
+#### lectura recomendada: http://rubytutorial.wikidot.com/
