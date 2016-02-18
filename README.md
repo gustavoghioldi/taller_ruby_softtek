@@ -182,6 +182,9 @@ genera el recurso "Posteo" completo
 
     rails g scaffold Posteo nombre:string telefono:integer texto:text
 
+gema de foundation
+
+    gem 'foundation-rails'
 
 para ver todas las rutas del proyecto
    
