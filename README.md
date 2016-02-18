@@ -149,6 +149,28 @@ Las gemas de Ruby son paquetes de librerías para Ruby que se instalan en el sis
 >"Un conjunto de librerías, automatismos y convenciones destinados a resolver los problemas más comunes a la hora de desarrollar una aplicación web, para que el programador pueda concentrarse en los aspectos únicos y diferenciales de su proyecto en lugar de los problemas recurrentes." (sic http://www.rubyonrails.org.es/)
 
 ###Comandos de RoR
+__carpeta de nuestra aplicacion__
+```sh
+app/
+├── assets
+│   ├── images
+│   ├── javascripts
+│   │   └── application.js
+│   └── stylesheets
+│       └── application.css
+├── controllers
+│   ├── application_controller.rb
+│   └── concerns
+├── helpers
+│   └── application_helper.rb
+├── mailers
+├── models
+│   └── concerns
+└── views
+    └── layouts
+        └── application.html.erb
+```
+
 crea una nueva aplicacion rails
 
     rails new myapp
