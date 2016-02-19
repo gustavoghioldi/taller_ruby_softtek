@@ -67,6 +67,16 @@ numeros.values
 numeros.each do |key, value|
 	puts key
 end
+
+my_array = (1..10).to_a
+my_array.class
+
+my_array.first
+my_array.last
+
+my_array.each do |my|
+  puts my
+end
 ```
 
 ##Funciones
