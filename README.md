@@ -92,6 +92,20 @@ def saludar(nombre, apellido)
 end
 
 saludar "Gustavo","Ghioldi"
+
+def sumar(num1, num2)
+  return num1+num2, num1, num2
+end
+
+sumar 10, 20
+
+def argumentos (*args)
+  args.each do |a|
+    puts a
+  end
+end
+
+argumentos "hola", 23, "chau", "hi", 1, 2, 3
 ```
 ##Clases
 ```Ruby
