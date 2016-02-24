@@ -209,7 +209,10 @@ genera el recurso "Posteo" completo
 gema de foundation
 
     gem 'foundation-rails'
-
+    #una pusta la gema en Gemfile
+    bundle install
+    rails g foundation:install
+    
 para ver todas las rutas del proyecto
    
     rake routes
