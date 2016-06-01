@@ -223,4 +223,3 @@ para hacer mitraciones de bases de datos
 
 
 #### lectura recomendada: http://rubytutorial.wikidot.com/
-#### http://www.tutorialspoint.com/python/index.htm
